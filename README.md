@@ -131,7 +131,6 @@ After completing this course, I am able to:
 
 <p>
   <a href="https://github.com/Vishalkumarjaiswal16"><img src="https://img.shields.io/badge/GitHub-Vishalkumarjaiswal16-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/vishalkumarjaiswal16"><img src="https://img.shields.io/badge/LinkedIn-Vishal%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
